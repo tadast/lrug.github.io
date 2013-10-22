@@ -4,7 +4,7 @@
     * socialise with friendly people who are interested in Ruby
     * find or fill Ruby-related jobs
 * we want to be a diverse and inclusive community, united by an interest in Ruby…
-* …so we want anyone who is interested in Ruby to participate
+* …so we want anyone who is interested in Ruby to be able to participate
 * it’s of primary importance that everyone who wants to participate feels safe and welcome
     * (if you’ve behaved badly elsewhere, that may count against you here because of the effect it has on other people)
 * as a participant in LRUG, you should:
