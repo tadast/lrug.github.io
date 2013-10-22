@@ -11,8 +11,8 @@
     * behave respectfully towards other people — they’re real humans, just like you
     * be considerate of people’s time and attention
     * contribute positively and constructively to discussions
-        * we want a high signal-to-noise ratio
-        * joining an annoying conversation will cause it to escalate, but ignoring it will kill it off
+        * We want a high signal-to-noise ratio, so if a discussion is devolving into snark and name-calling, either let it die or raise the tone. Lead by example.
+        * On the other hand, if someone's acted out of line, it's the community's responsibility to make that crystal clear to them. The standard you walk past is the standard you accept.
 * all LRUG participants are accountable for their own behaviour
 * please report any inappropriate or harmful behaviour to:
     * [Aanand](http://aanandprasad.com/) ([@aanand](http://twitter.com/aanand), [aanand.prasad@gmail.com](mailto:aanand.prasad@gmail.com))
