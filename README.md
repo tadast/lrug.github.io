@@ -8,7 +8,7 @@
 * it’s of primary importance that everyone who wants to participate feels safe and welcome
     * (if you’ve behaved badly elsewhere, that may count against you here because of the effect it has on other people)
 * as a participant in LRUG, you should:
-    * behave respectfully towards other people and consider their feelings
+    * behave respectfully towards other people and be considerate of their time, attention and feelings
     * contribute positively and constructively to discussions
         * we want a high signal-to-noise ratio
         * joining an annoying conversation will cause it to escalate, but ignoring it will kill it off
