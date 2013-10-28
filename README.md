@@ -27,3 +27,20 @@ Please report any inappropriate or harmful behaviour to:
  * [Tom](http://codon.com/) ([@tomstuart](http://twitter.com/tomstuart), [tom@codon.com](mailto:tom@codon.com))
  * …?
 
+## Talks
+
+Most of our meetings have talks from community members and we're always looking for people to give a talk.  If you'd like to give a talk you should get in touch with [Murray Steele](http://h-lame.com/) ([@hlame](http://twitter.com/hlame) [murray.steele@lrug.org](mailto:murray.steele@lrug.org)) and suggest it.
+
+Our goal is to accept any offered talk.  If the talk is obviously about ruby it's a no-brainer; you can give your talk.  If it's not obviously about ruby we'll have a discussion first to see what the hook is for rubyists.  We're quite an open-minded group, so the hook doesn't have to be that obvious.  In the unlikely event that it turns out that LRUG isn't a good home for your talk, we'll do our best to come up with some alternative ideas for places you could give it.
+
+### Scheduling
+
+Slots for talks are first-come, first-served.  Once you've decided to give your talk we'll let you know when the next likely meeting is that there would be a free slot.  For example, we usually have two talks per meeting, so if there are 4 people on our list of volunteers when you offer your talk it would be likely that the third meeting is the one you'd be scheduled for.  Of course, people drop out or aren't available for a specific meeting so you might get a slot sooner.
+
+If there is a specific future meeting that would be most convenient for you, let us know and we'll do our best to accommodate that.
+
+### Content
+
+LRUG is a mixed ability crowd; first-timers just learning ruby all the way up to people that have been using it for years.  This means you can pitch your talk at any level and someone will get something out of it.  It's a mostly technical crowd, so don't shy away from getting into the nitty gritty of your topic.  We'd prefer an in-depth discussion of a single aspect to a shallow overview of the whole thing.
+
+Your talk should observe the code of conduct.  Any talks that don't will be stopped and the speaker asked to leave.
