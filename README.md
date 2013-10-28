@@ -62,8 +62,8 @@ LRUG is hosted by [Skills Matter](http://skillsmatter.com/) who provide the venu
 There are opportunities for pizza or pizza and soft-drinks sponsorship during the meeting, or bar-tab sponsorship after the meeting at the pub.  If you would like to provide sponsorship you should get in touch with: [Murray Steele](http://h-lame.com/) ([@hlame](http://twitter.com/hlame) [murray.steele@lrug.org](mailto:murray.steele@lrug.org)) to find out the prices and arrange it.
 
 In return for sponsoring LRUG will:
-1. put your logo in the sponsor side-bar on the relevant meeting page on [lrug.org](http://lrug.org)
-2. mention the specifics of your sponsorship in the main details of the relevant meeting page on [lrug.org](http://lrug.org)
-3. mention the sponsorship in the meeting announcement email on [the mailing list](http://lrug.org/mailing-list)
-4. tweet about the sponsorship from [@lrug](https://twitter.com/lrug) at least once to announce it and once on the day as a reminder
-5. mention you at the start of the meeting, and make sure you have 30seconds or so during our announcements section to talk to the group
+ 1. put your logo in the sponsor side-bar on the relevant meeting page on [lrug.org](http://lrug.org)
+ 2. mention the specifics of your sponsorship in the main details of the relevant meeting page on [lrug.org](http://lrug.org)
+ 3. mention the sponsorship in the meeting announcement email on [the mailing list](http://lrug.org/mailing-list)
+ 4. tweet about the sponsorship from [@lrug](https://twitter.com/lrug) at least once to announce it and once on the day as a reminder
+ 5. mention you at the start of the meeting, and make sure you have 30seconds or so during our announcements section to talk to the group
