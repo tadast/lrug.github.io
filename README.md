@@ -54,3 +54,16 @@ Our normal pattern for a meeting is two speakers with 40 minute time slots, alth
 A slot isn’t how long your talk should be, but how much time you will get in front of the group.  You can fill that time slot as you see fit (talk + questions, talk only, &c), but you will be stopped once the time is up.  An organiser will be sitting at the front and will give you a 5 minute warning before your time is up.  If you want more time warnings let us know and we'll be happy to help.
 
 For a 40 minute slot, we recommend a 30 minute talk. This leaves plenty of time for you to over-run, answer questions, and faff about with a laptop at the start.
+
+## Sponsorship
+
+LRUG is hosted by [Skills Matter](http://skillsmatter.com/) who provide the venue; make tea, coffee, & water available during the talks; film the talks; and handle registration.  We don't currently need venue sponsorship or an alternate venue.
+
+There are opportunities for pizza or pizza and soft-drinks sponsorship during the meeting, or bar-tab sponsorship after the meeting at the pub.  If you would like to provide sponsorship you should get in touch with: [Murray Steele](http://h-lame.com/) ([@hlame](http://twitter.com/hlame) [murray.steele@lrug.org](mailto:murray.steele@lrug.org)) to find out the prices and arrange it.
+
+In return for sponsoring LRUG will:
+1. put your logo in the sponsor side-bar on the relevant meeting page on [lrug.org](http://lrug.org)
+2. mention the specifics of your sponsorship in the main details of the relevant meeting page on [lrug.org](http://lrug.org)
+3. mention the sponsorship in the meeting announcement email on [the mailing list](http://lrug.org/mailing-list)
+4. tweet about the sponsorship from [@lrug](https://twitter.com/lrug) at least once to announce it and once on the day as a reminder
+5. mention you at the start of the meeting, and make sure you have 30seconds or so during our announcements section to talk to the group
