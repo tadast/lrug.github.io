@@ -44,3 +44,13 @@ If there is a specific future meeting that would be most convenient for you, let
 LRUG is a mixed ability crowd; first-timers just learning ruby all the way up to people that have been using it for years.  This means you can pitch your talk at any level and someone will get something out of it.  It's a mostly technical crowd, so don't shy away from getting into the nitty gritty of your topic.  We'd prefer an in-depth discussion of a single aspect to a shallow overview of the whole thing.
 
 Your talk should observe the code of conduct.  Any talks that don't will be stopped and the speaker asked to leave.
+
+If you are using the projector you should favour large fonts and a high contrast colour scheme with dark text on a light background in anything you show.  The default settings for most presentation applications are a safe bet, but you might have to pre-configure your terminal or editor if you are using those.
+
+### Timing
+
+Our normal pattern for a meeting is two speakers with 40 minute time slots, although one-off meetings might be different.  For example, our February meetings are for lightning talks, run using the 20 slides, 20 seconds each format.
+
+A slot isn’t how long your talk should be, but how much time you will get in front of the group.  You can fill that time slot as you see fit (talk + questions, talk only, &c), but you will be stopped once the time is up.  An organiser will be sitting at the front and will give you a 5 minute warning before your time is up.  If you want more time warnings let us know and we'll be happy to help.
+
+For a 40 minute slot, we recommend a 30 minute talk. This leaves plenty of time for you to over-run, answer questions, and faff about with a laptop at the start.
