@@ -11,18 +11,22 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
 
 ## Code of Conduct
 
-As a participant in LRUG, you should:
+When participating in LRUG, either online or offline, we expect you to:
  * behave respectfully towards other people — they’re real humans, just like you
  * be considerate of people’s time and attention
  * contribute positively and constructively to discussions (online or in-person)
 
-We want a high signal-to-noise ratio and expect you to: 
+On the mailing list, we want to maintain a high signal-to-noise ratio, so please:
  * Lead by example - If a discussion is devolving into snark and name-calling, either let it die or raise the tone.
  * Keep standards high - If someone acts out of line, make that crystal clear to them.
 
-All LRUG participants are accountable for their own behaviour.  If you’ve behaved badly elsewhere, that may count against you here, because of the effect it has on other people.
+### Incident Handling
 
-Please report any inappropriate or harmful behaviour to:
+LRUG is anti-harassment in all forms, including exclusionary jokes/comments, invasions of personal space and much more. If we feel that you’ve made anyone feel uncomfortable or unwelcome, you will be asked to leave.
+
+All LRUG participants are accountable for their own behaviour.  If you’ve behaved badly elsewhere, that may count against you here, because of the effect it has on other attendees.
+
+If you experience or witness any harassing behaviour, please report it to:
  * [Aanand](http://aanandprasad.com/) ([@aanand](http://twitter.com/aanand), [aanand.prasad@gmail.com](mailto:aanand.prasad@gmail.com))
  * [Tom](http://codon.com/) ([@tomstuart](http://twitter.com/tomstuart), [tom@codon.com](mailto:tom@codon.com))
  * …?
