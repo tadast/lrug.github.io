@@ -17,8 +17,8 @@ It’s of primary importance that everyone who wants to participate feels safe a
  * contribute positively and constructively to discussions (online or in-person)
 
 On the mailing list, we want to maintain a high signal-to-noise ratio, so please:
- * Lead by example - If a discussion is devolving into snark and name-calling, either let it die or raise the tone.
- * Keep standards high - If someone acts disrespectfully, make that crystal clear to them.
+ * lead by example — if a discussion is devolving into snark and name-calling, either let it die or raise the tone
+ * keep standards high — if someone acts disrespectfully, make that crystal clear to them
 
 ### Incident Handling
 
