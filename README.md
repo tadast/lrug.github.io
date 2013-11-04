@@ -29,7 +29,6 @@ All LRUG participants are accountable for their own behaviour.  If you’ve beha
 If you experience or witness any harassing behaviour, please report it to:
  * [Aanand](http://aanandprasad.com/) ([@aanand](http://twitter.com/aanand), [aanand.prasad@gmail.com](mailto:aanand.prasad@gmail.com))
  * [Tom](http://codon.com/) ([@tomstuart](http://twitter.com/tomstuart), [tom@codon.com](mailto:tom@codon.com))
- * …?
 
 ## Talks
 
