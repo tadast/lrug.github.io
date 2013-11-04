@@ -54,7 +54,7 @@ If you are using the projector you should favour large fonts and a high contrast
 
 Our normal pattern for a meeting is two speakers with 40 minute time slots, although one-off meetings might be different. For example, our February meetings are for lightning talks, run using the "20 slides, 20 seconds each" format.
 
-A slot isn’t how long your talk should be, but how much time you will get in front of the group. You can fill that time slot as you see fit (talk + questions, talk only, &c), but you will be stopped once the time is up. An organiser will be sitting at the front and will give you a 5 minute warning before your time is up. If you want more time warnings, let us know and we'll be happy to help.
+A slot isn’t how long your talk should be, but how much time you will get in front of the group. You can fill that time slot as you see fit (talk + questions, talk only, &c).
 
 For a 40-minute slot, we recommend a 30-minute talk. This leaves plenty of time for you to over-run, answer questions, and faff about with a laptop at the start.
 
