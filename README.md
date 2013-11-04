@@ -22,7 +22,7 @@ On the mailing list, we want to maintain a high signal-to-noise ratio, so please
 
 ### Incident Handling
 
-LRUG is anti-harassment in all forms, including exclusionary jokes/comments, invasions of personal space and much more. If we feel that you’ve made anyone feel uncomfortable or unwelcome, you will be asked to leave.
+LRUG is anti-harassment in all forms, including exclusionary jokes/comments, invasions of personal space and much more. If you make anyone feel uncomfortable or unwelcome, you will be asked to leave.
 
 All LRUG participants are accountable for their own behaviour.  If you’ve behaved badly elsewhere, that may count against you here, because of the effect it has on other attendees.
 
