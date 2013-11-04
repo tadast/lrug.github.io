@@ -1,3 +1,7 @@
+---
+title: README.lrug
+---
+
 # README.lrug
 
 LRUG is a London-based community for anyone who is interested in the Ruby programming language.
