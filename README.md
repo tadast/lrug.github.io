@@ -44,7 +44,7 @@ If there is a specific future meeting that would be most convenient for you, let
 
 ### Content
 
-LRUG is a mixed-ability crowd; first-timers just learning Ruby all the way up to people that have been using it for years. This means you can pitch your talk at any level and someone will get something out of it. It's a mostly technical crowd, so don't shy away from getting into the nitty gritty of your topic. We'd prefer an in-depth discussion of a single aspect to a shallow overview of the whole thing.
+LRUG is a mixed-ability crowd; we have talks from first-timers just learning Ruby all the way up to people that have been using it for years. This means you can pitch your talk at any level and someone will get something out of it. It's a mostly technical crowd, so don't shy away from getting into the nitty gritty of your topic. We'd prefer an in-depth discussion of a single aspect to a shallow overview of the whole thing.
 
 Your talk should observe the code of conduct. Any talks that don't will be stopped and the speaker asked to leave.
 
