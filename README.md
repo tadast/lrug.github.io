@@ -32,6 +32,8 @@ If you experience or witness any harassing behaviour, please report it to:
 
 ## Meetings
 
+We meet once a month at Skills Matter, usually on the second Monday. There are typically two talks and then we go to the pub. There’s always tea and coffee at Skills Matter, and sometimes there’ll be pizza; beer is limited to the pub afterwards.
+
 Most of our meetings have talks from community members and we're always looking for people to give a talk. If you'd like to give a talk you should get in touch with [Murray Steele](http://h-lame.com/) ([@hlame](http://twitter.com/hlame), [murray.steele@lrug.org](mailto:murray.steele@lrug.org)) and suggest it.
 
 Our goal is to accept any offered talk. If the talk is obviously about Ruby it's a no-brainer; you can give your talk. If it's not obviously about Ruby we'll have a discussion first to see what the hook is for rubyists. We're quite an open-minded group, so the hook doesn't have to be that obvious. In the unlikely event that it turns out that LRUG isn't a good home for your talk, we'll do our best to come up with some alternative ideas for places you could give it.
