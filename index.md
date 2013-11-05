@@ -8,6 +8,7 @@ title: README.lrug
 LRUG is a London-based community for anyone who is interested in the Ruby programming language.
 
 LRUG provides [online](http://lrug.org/mailing-list) and [offline](http://lanyrd.com/series/lrug/) opportunities to:
+
  * discuss Ruby and related topics
  * socialise with friendly people who are interested in Ruby
  * find or fill Ruby-related jobs
@@ -15,7 +16,7 @@ LRUG provides [online](http://lrug.org/mailing-list) and [offline](http://lanyrd
 We want LRUG to be a diverse and inclusive community, united by an interest in Ruby, and so we want anyone who is interested in Ruby to be able to participate.
 
  * [Code of Conduct](#code_of_conduct)
- * [Incident Handling](#incident_handling)
+   * [Incident Handling](#incident_handling)
  * [Meetings](#meetings)
    * [Scheduling](#scheduling)
    * [Content](#content)
@@ -25,21 +26,24 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
 ## Code of Conduct
 
 It’s of primary importance that everyone who wants to participate feels safe and welcome. When participating in LRUG, either online or offline, we expect you to:
+
  * behave respectfully towards other people — they’re real humans, just like you
  * be considerate of people’s time and attention
  * contribute positively and constructively to discussions (online or in-person)
 
 On the mailing list, we want to maintain a high signal-to-noise ratio, so please:
+
  * lead by example — if a discussion is devolving into snark and name-calling, either let it die or raise the tone
  * keep standards high — if someone acts disrespectfully, make that crystal clear to them
 
-## Incident Handling
+### Incident Handling
 
 LRUG is anti-harassment in all forms, including invasions of personal space and exclusionary jokes/comments. If you make anyone feel uncomfortable or unwelcome, you will be asked to leave.
 
 All LRUG participants are accountable for their own behaviour. If you’ve behaved badly elsewhere, that may count against you here, because of the effect it has on other attendees.
 
 If you experience or witness any harassing behaviour, please report it to:
+
  * [Aanand](http://aanandprasad.com/) ([@aanand](http://twitter.com/aanand), [aanand.prasad@gmail.com](mailto:aanand.prasad@gmail.com))
  * [Tom](http://codon.com/) ([@tomstuart](http://twitter.com/tomstuart), [tom@codon.com](mailto:tom@codon.com))
 
@@ -80,6 +84,7 @@ LRUG is hosted by [Skills Matter](http://skillsmatter.com/) who provide the venu
 There are opportunities for pizza or pizza and soft-drinks sponsorship during the meeting, or bar-tab sponsorship after the meeting at the pub. If you would like to provide sponsorship you should get in touch with: [Murray Steele](http://h-lame.com/) ([@hlame](http://twitter.com/hlame), [murray.steele@lrug.org](mailto:murray.steele@lrug.org)) to find out the prices and arrange it.
 
 In return for sponsoring LRUG will:
+
  1. put your logo in the sponsor side-bar on the relevant meeting page on [lrug.org](http://lrug.org)
  2. mention the specifics of your sponsorship in the main details of the relevant meeting page on [lrug.org](http://lrug.org)
  3. mention the sponsorship in the meeting announcement email on [the mailing list](http://lrug.org/mailing-list)
