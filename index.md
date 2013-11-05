@@ -15,8 +15,8 @@ LRUG provides [online](http://lrug.org/mailing-list) and [offline](http://lanyrd
 
 We want LRUG to be a diverse and inclusive community, united by an interest in Ruby, and so we want anyone who is interested in Ruby to be able to participate.
 
- * [Code of Conduct](#code_of_conduct)
-   * [Incident Handling](#incident_handling)
+ * [Code of Conduct](#code-of-conduct)
+   * [Incident Handling](#incident-handling)
  * [Meetings](#meetings)
    * [Scheduling](#scheduling)
    * [Content](#content)
