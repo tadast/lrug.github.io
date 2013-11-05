@@ -15,11 +15,11 @@ LRUG provides [online](http://lrug.org/mailing-list) and [offline](http://lanyrd
 We want LRUG to be a diverse and inclusive community, united by an interest in Ruby, and so we want anyone who is interested in Ruby to be able to participate.
 
  * [Code of Conduct](#code_of_conduct)
-     * [Incident Handling](#incident_handling)
+ * [Incident Handling](#incident_handling)
  * [Meetings](#meetings)
-     * [Scheduling](#scheduling)
-     * [Content](#content)
-     * [Timing](#timing)
+   * [Scheduling](#scheduling)
+   * [Content](#content)
+   * [Timing](#timing)
  * [Sponsorship](#sponsorship)
 
 ## Code of Conduct
@@ -33,7 +33,7 @@ On the mailing list, we want to maintain a high signal-to-noise ratio, so please
  * lead by example — if a discussion is devolving into snark and name-calling, either let it die or raise the tone
  * keep standards high — if someone acts disrespectfully, make that crystal clear to them
 
-### Incident Handling
+## Incident Handling
 
 LRUG is anti-harassment in all forms, including invasions of personal space and exclusionary jokes/comments. If you make anyone feel uncomfortable or unwelcome, you will be asked to leave.
 
