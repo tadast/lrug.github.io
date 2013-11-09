@@ -22,6 +22,7 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
      * [Scheduling](#scheduling)
      * [Content](#content)
      * [Timing](#timing)
+   * [After The Talks](#after-the-talks)
  * [Sponsorship](#sponsorship)
 
 ## Code of Conduct
@@ -52,7 +53,7 @@ If you experience or witness any harassing behaviour, please report it to:
 
 ## Meetings
 
-We meet once a month at [Skills Matter](http://skillsmatter.com/location-details/design-architecture/484/96), usually on the second Monday. There are typically [two talks](#talks) and then we go to the pub. There’s always tea and coffee at Skills Matter, and sometimes there’ll be pizza; beer is limited to the pub afterwards.
+We meet once a month at [Skills Matter](http://skillsmatter.com/location-details/design-architecture/484/96), usually on the second Monday. There are typically [two talks](#talks) and then we go to [the pub](#after-the-talks). There’s always tea and coffee at Skills Matter, and sometimes there’ll be pizza; beer is limited to the pub afterwards.
 
 To stay informed about our upcoming meetings you can:
 
@@ -89,6 +90,14 @@ Our normal pattern for a meeting is two speakers with 40 minute time slots, alth
 A slot isn’t how long your talk should be, but how much time you will get in front of the group. You can fill that time slot as you see fit (talk + questions, talk only, &c).
 
 For a 40-minute slot, we recommend a 30-minute talk. This leaves plenty of time for you to over-run, answer questions, and faff about with a laptop at the start.
+
+### After The Talks
+
+When the talks are finished, usually around 8pm, most of the group head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/). This part of the meeting is your opportunity to socialise with other LRUG members and speak with the presenters about their talks.
+
+Just because we're in a pub doesn't mean you have to drink alcohol.  If you do choose to drink alcohol we encourage you to explore the food menu and drink responsibly.
+
+Although the venue for this part of the meeting is a pub and therefore feels more informal be aware that the code of conduct still applies.
 
 ## Sponsorship
 
