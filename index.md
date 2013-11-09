@@ -31,7 +31,7 @@ It’s of primary importance that everyone who wants to participate feels safe a
  * be considerate of people’s time and attention
  * contribute positively and constructively to discussions (online or in-person)
 
-On the mailing list, we want to maintain a high signal-to-noise ratio, so please:
+On the mailing list, we want to maintain a high signal-to-noise ratio and while the organisers will step in as soon as they see poor behaviour, we encourage you to say something if you see it first.  So please:
 
  * lead by example — if a discussion is devolving into snark and name-calling, either let it die or raise the tone
  * keep standards high — if someone acts disrespectfully, make that crystal clear to them
