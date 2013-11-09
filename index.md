@@ -18,9 +18,10 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
  * [Code of Conduct](#code-of-conduct)
    * [Incident Handling](#incident-handling)
  * [Meetings](#meetings)
-   * [Scheduling](#scheduling)
-   * [Content](#content)
-   * [Timing](#timing)
+   * [Talks](#talks)
+     * [Scheduling](#scheduling)
+     * [Content](#content)
+     * [Timing](#timing)
  * [Sponsorship](#sponsorship)
 
 ## Code of Conduct
@@ -51,19 +52,29 @@ If you experience or witness any harassing behaviour, please report it to:
 
 ## Meetings
 
-We meet once a month at Skills Matter, usually on the second Monday. There are typically two talks and then we go to the pub. There’s always tea and coffee at Skills Matter, and sometimes there’ll be pizza; beer is limited to the pub afterwards.
+We meet once a month at [Skills Matter](http://skillsmatter.com/location-details/design-architecture/484/96), usually on the second Monday. There are typically [two talks](#talks) and then we go to the pub. There’s always tea and coffee at Skills Matter, and sometimes there’ll be pizza; beer is limited to the pub afterwards.
+
+To stay informed about our upcoming meetings you can:
+
+ * subscribe to [our calendar](http://lrug.org/meeting-calendar)
+ * follow the [LRUG series on lanyrd](http://lanyrd.com/series/lrug/)
+ * follow [@lrug](http://twitter.com/lrug)
+ * subscribe to [the mailing list](http://lrug.org/mailing-list)
+ * subscribe to [the lrug.org meetings RSS](http://lrug.org/rss/meetings)
+
+### Talks
 
 Most of our meetings have talks from community members and we're always looking for people to give a talk. If you'd like to give a talk you should get in touch with [Murray Steele](http://h-lame.com/) ([@hlame](http://twitter.com/hlame), [murray.steele@lrug.org](mailto:murray.steele@lrug.org)) and suggest it.
 
 Our goal is to accept any offered talk. If the talk is obviously about Ruby it's a no-brainer; you can give your talk. If it's not obviously about Ruby we'll have a discussion first to see what the hook is for Rubyists. We're quite an open-minded group, so the hook doesn't have to be that obvious. In the unlikely event that it turns out that LRUG isn't a good home for your talk, we'll do our best to come up with some alternative ideas for places you could give it.
 
-### Scheduling
+#### Scheduling
 
 Slots for talks are first-come, first-served. Once you've decided to give your talk we'll let you know when the next likely meeting is that there would be a free slot. For example, we usually have two talks per meeting, so if there are 4 people on our list of volunteers when you offer your talk it would be likely that the third meeting is the one you'd be scheduled for. Of course, people drop out or aren't available for a specific meeting so you might get a slot sooner.
 
 If there is a specific future meeting that would be most convenient for you, let us know and we'll do our best to accommodate that.
 
-### Content
+#### Content
 
 LRUG is a mixed-ability crowd; we have talks from first-timers just learning Ruby all the way up to people that have been using it for years. This means you can pitch your talk at any level and someone will get something out of it. It's a mostly technical crowd, so don't shy away from getting into the nitty gritty of your topic. We'd prefer an in-depth discussion of a single aspect to a shallow overview of the whole thing.
 
@@ -71,7 +82,7 @@ Your talk should observe the code of conduct. Any talks that don't will be stopp
 
 If you are using the projector you should favour large fonts and a high contrast colour scheme with dark text on a light background in anything you show. The default settings for most presentation applications are a safe bet, but you might have to pre-configure your terminal or editor if you are using those.
 
-### Timing
+#### Timing
 
 Our normal pattern for a meeting is two speakers with 40 minute time slots, although one-off meetings might be different. For example, our February meetings are for lightning talks, run using the "20 slides, 20 seconds each" format.
 
