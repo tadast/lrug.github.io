@@ -97,7 +97,7 @@ When the talks are finished, usually around 8pm, most of the group head over to 
 
 Just because we're in a pub doesn't mean you have to drink alcohol.  If you do choose to drink alcohol we encourage you to explore the food menu and drink responsibly.
 
-Although the venue for this part of the meeting is a pub and therefore feels more informal be aware that the code of conduct still applies.
+Although the venue for this part of the meeting is a pub and therefore feels more informal, be aware that the code of conduct still applies.
 
 ## Sponsorship
 
