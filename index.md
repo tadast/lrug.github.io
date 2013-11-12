@@ -40,7 +40,7 @@ On the mailing list, we want to maintain a high signal-to-noise ratio and while 
 
 ### Incident Handling
 
-LRUG is anti-harassment in all forms, including invasions of personal space and exclusionary jokes/comments. If you make anyone feel uncomfortable or unwelcome, you will be asked to leave.
+LRUG is anti-harassment in all forms, and we're dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of our members in any form, including invasions of personal space and exclusionary jokes/comments. Sexual language and imagery is not appropriate at any LRUG venue; not at the talks, not at the pub after the talks, or any other LRUG social meeting; not on Twitter or on any other online media. Please note that this list is non-exhaustive; if you make anyone feel uncomfortable or unwelcome, you will be asked to leave.
 
 If you are not sure what we mean by harassment or exclusion, there are [several](https://us.pycon.org/2012/codeofconduct/) [good](http://theangryblackwoman.com/2009/10/01/the-dos-and-donts-of-being-a-good-ally/) [resources online](http://www.shakesville.com/2010/01/feminism-101.html) which we encourage you read. The main thing to remember though, is that if someone feels harassed or excluded by your words or actions, then those words or actions constitute harassment or exclusion. Your intent is *not* a factor.
 
