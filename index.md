@@ -50,7 +50,7 @@ If you experience or witness any harassing behaviour, please report it to:
 
  * [Aanand](http://aanandprasad.com/) ([@aanand](http://twitter.com/aanand), [aanand.prasad@gmail.com](mailto:aanand.prasad@gmail.com))
  * [Tom](http://codon.com/) ([@tomstuart](http://twitter.com/tomstuart), [tom@codon.com](mailto:tom@codon.com))
- * [Camille](http://camillebaldock.co.uk/)([@camille_ldn](http://twitter.com/camille_ldn), [camille@camillebaldock.co.uk](mailto:camille@camillebaldock.co.uk))
+ * [Camille](http://camillebaldock.co.uk/) ([@camille_ldn](http://twitter.com/camille_ldn), [camille@camillebaldock.co.uk](mailto:camille@camillebaldock.co.uk))
 
 ## Meetings
 
@@ -68,21 +68,21 @@ To stay informed about our upcoming meetings you can:
 
 Most of our meetings have talks from community members and we're always looking for people to give a talk. If you'd like to give a talk you should get in touch with [Murray Steele](http://h-lame.com/) ([@hlame](http://twitter.com/hlame), [murray.steele@lrug.org](mailto:murray.steele@lrug.org)) and suggest it.
 
-Our goal is to accept any offered talk. If the talk is obviously about Ruby it's a no-brainer; you can give your talk. If it's not obviously about Ruby we'll have a discussion first to see what the hook is for Rubyists. We're quite an open-minded group, so the hook doesn't have to be that obvious. In the unlikely event that it turns out that LRUG isn't a good home for your talk, we'll do our best to come up with some alternative ideas for places you could give it.
+Our goal is to accept any offered talk. If your talk is obviously about Ruby there's no question about it; you can definitely give your talk. If it's not so obviously about Ruby we'll have a discussion first to see what the hook is for Rubyists. We're quite an open-minded group, so the hook doesn't have to be that clear. In the unlikely event that it turns out that LRUG isn't a good home for your talk, we'll do our best to come up with some alternative ideas for places you could give it.
 
 #### Scheduling
 
-Slots for talks are first-come, first-served. Once you've decided to give your talk we'll let you know when the next likely meeting is that there would be a free slot. For example, we usually have two talks per meeting, so if there are 4 people on our list of volunteers when you offer your talk it would be likely that the third meeting is the one you'd be scheduled for. Of course, people drop out or aren't available for a specific meeting so you might get a slot sooner.
+Slots for talks are first-come, first-served. Once you've decided to give your talk we'll let you know when a free slot will be available at a meeting. We usually have two talks per meeting, so if there are 4 people on our list of volunteers when you offer your talk it's most likely that the third meeting is the one we'd schedule you for. Of course, people drop out or aren't available for a specific meeting so you might get a slot sooner.
 
 If there is a specific future meeting that would be most convenient for you, let us know and we'll do our best to accommodate that.
 
 #### Content
 
-LRUG is a mixed-ability crowd; we have talks from first-timers just learning Ruby all the way up to people that have been using it for years. This means you can pitch your talk at any level and someone will get something out of it. It's a mostly technical crowd, so don't shy away from getting into the nitty gritty of your topic. We'd prefer an in-depth discussion of a single aspect to a shallow overview of the whole thing.
+LRUG is a mixed-ability crowd; we have talks from first-timers just learning Ruby all the way up to people that have been using it for years. This means you can pitch your talk at any level and someone will get something out of it. It's also a mostly technical crowd, so don't shy away from getting into the nitty gritty of your topic. We'd prefer an in-depth discussion of a single aspect to a shallow overview of the whole thing.
 
 Your talk should observe the code of conduct. Any talks that don't will be stopped and the speaker asked to leave.
 
-If you are using the projector you should favour large fonts and a high contrast colour scheme with dark text on a light background in anything you show. The default settings for most presentation applications are a safe bet, but you might have to pre-configure your terminal or editor if you are using those.
+If you are using the projector you should favour large fonts and a high contrast colour scheme with dark text on a light background in anything you show. The default settings for most presentation applications are a safe bet, but you might have to re-configure your terminal or editor if you are using those.
 
 #### Timing
 
@@ -106,7 +106,7 @@ LRUG is hosted by [Skills Matter](http://skillsmatter.com/) who provide the venu
 
 There are opportunities for pizza or pizza and soft-drinks sponsorship during the meeting, or bar-tab sponsorship after the meeting at the pub. If you would like to provide sponsorship you should get in touch with: [Murray Steele](http://h-lame.com/) ([@hlame](http://twitter.com/hlame), [murray.steele@lrug.org](mailto:murray.steele@lrug.org)) to find out the prices and arrange it.
 
-In return for sponsoring LRUG will:
+In return for your sponsorship LRUG will:
 
  1. put your logo in the sponsor side-bar on the relevant meeting page on [lrug.org](http://lrug.org)
  2. mention the specifics of your sponsorship in the main details of the relevant meeting page on [lrug.org](http://lrug.org)
