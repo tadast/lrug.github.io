@@ -84,7 +84,7 @@ LRUG is a mixed-ability crowd; we have talks from first-timers just learning Rub
 
 Your talk should observe the code of conduct. Any talks that don't will be stopped and the speaker asked to leave.
 
-If you are using the projector you should favour large fonts and a high contrast colour scheme with dark text on a light background in anything you show. The default settings for most presentation applications are a safe bet, but you might have to re-configure your terminal or editor if you are using those.
+If you are using the projector you should favour large fonts and a high contrast colour scheme with dark text on a light background in anything you show. The default settings for most presentation applications are a safe bet, but you might have to re-configure your terminal or editor if you are using those for anything. Also note that while the projector will cope with most screen resolutions, it works best at 1024x768. Most presentation applications will automatically resize, but you might want to check your slides at that resolution.
 
 #### Timing
 
