@@ -20,7 +20,7 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
  * [Meetings](#meetings)
    * [Talks](#talks)
      * [Scheduling](#scheduling)
-     * [Content](#content)
+     * [Subject Matter](#subject-matter)
      * [Timing](#timing)
    * [After The Talks](#after-the-talks)
  * [Sponsorship](#sponsorship)
@@ -78,7 +78,7 @@ Slots for talks are first-come, first-served. Once you've decided to give your t
 
 If there is a specific future meeting that would be most convenient for you, let us know and we'll do our best to accommodate that.
 
-#### Content
+#### Subject Matter
 
 LRUG is a mixed-ability crowd; we have talks from first-timers just learning Ruby all the way up to people that have been using it for years. This means you can pitch your talk at any level and someone will get something out of it. It's also a mostly technical crowd, so don't shy away from getting into the nitty gritty of your topic. We'd prefer an in-depth discussion of a single aspect to a shallow overview of the whole thing.
 
