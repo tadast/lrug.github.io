@@ -130,13 +130,16 @@ with several members of the community and
 While it contains some information that is uncontroversial and
 unlikely to become rapidly outdated, it is intended to be a living
 document. Contributions and discussion about this document are very
-welcome. There are two principle ways of contributing:
+welcome. There are a number of ways of contributing:
 
  1. By opening an issue, or suggesting your changes in the form of a
     pull-request at this document's
     [Github repository](https://github.com/lrug/lrug.github.io/)
  2. By proposing or suggesting your changes on the LRUG
     [mailing list](http://lrug.org/mailing-list).
+ 3. By privately contacting
+    [Murray Steele](mailto:murray.steele@lrug.org) or one of the
+    [volunteer team](#volunteer-team).
 
 All contributions can and will be discussed by any members of the
 community, and can be incorporated into this document when consensus
