@@ -58,6 +58,12 @@ to a member of the [volunteer team](#volunteer-team).
  * [Tom](http://codon.com/) ([@tomstuart](http://twitter.com/tomstuart), [tom@codon.com](mailto:tom@codon.com))
  * [Camille](http://camillebaldock.co.uk/) ([@camille_ldn](http://twitter.com/camille_ldn), [camille@camillebaldock.co.uk](mailto:camille@camillebaldock.co.uk))
 
+If you'd like to join the volunteer team please contact
+[Murray Steele](http://h-lame.com/)
+([@hlame](http://twitter.com/hlame),
+[murray.steele@lrug.org](mailto:murray.steele@lrug.org)) in the first
+instance.
+
 ## Meetings
 
 We meet once a month at [Skills Matter](http://skillsmatter.com/location-details/design-architecture/484/96), usually on the second Monday. There are typically [two talks](#talks) and then we go to [the pub](#after-the-talks). There’s always tea and coffee at Skills Matter, and sometimes there’ll be pizza; beer is limited to the pub afterwards.
@@ -148,10 +154,3 @@ welcome. There are a number of ways of contributing:
 All contributions can and will be discussed by any members of the
 community, and can be incorporated into this document when consensus
 has been reached.
-
-If you'd like to volunteer to help, including
-[incident handling](#incident-handling), please contact
-[Murray Steele](http://h-lame.com/)
-([@hlame](http://twitter.com/hlame),
-[murray.steele@lrug.org](mailto:murray.steele@lrug.org)) in the first
-instance.
