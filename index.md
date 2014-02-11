@@ -123,9 +123,13 @@ In return for your sponsorship LRUG will:
 ## About this document
 
 The first draft of this document was written by
-[Murray Steele](http://h-lame.com/) following private consultation
-with several members of the community and
-[discussions on the LRUG mailing list](http://lists.lrug.org/htdig.cgi/chat-lrug.org/2013-October/009565.html).
+[Murray Steele](http://h-lame.com/), [Tom Stuart](http://codon.com)
+and [Aanand Prasad](http://aanandprasad.com/), drawing on a number of
+sources and
+[discussions on the LRUG mailing list](http://lists.lrug.org/htdig.cgi/chat-lrug.org/2013-October/009565.html). Github
+provides a
+[full list of contributors](https://github.com/lrug/lrug.github.io/graphs/contributors)
+following the initial draft.
 
 While it contains some information that is uncontroversial and
 unlikely to become rapidly outdated, it is intended to be a living
