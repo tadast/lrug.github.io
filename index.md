@@ -49,7 +49,10 @@ If you’re still in need of clarification, there are [a number](https://us.pyco
 
 All LRUG participants are accountable for their own behaviour. If you’ve behaved badly elsewhere, that may count against you here, because of the effect it has on other attendees.
 
-If you experience or witness any harassing behaviour, please report it to:
+If you experience or witness any harassing behaviour, please report it
+to a member of the [volunteer team](#volunteer-team).
+
+#### Volunteer team
 
  * [Aanand](http://aanandprasad.com/) ([@aanand](http://twitter.com/aanand), [aanand.prasad@gmail.com](mailto:aanand.prasad@gmail.com))
  * [Tom](http://codon.com/) ([@tomstuart](http://twitter.com/tomstuart), [tom@codon.com](mailto:tom@codon.com))
