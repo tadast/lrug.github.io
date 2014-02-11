@@ -24,6 +24,7 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
      * [Timing](#timing)
    * [After The Talks](#after-the-talks)
  * [Sponsorship](#sponsorship)
+ * [About This Document](#about-this-document)
 
 ## Code of Conduct
 
@@ -115,3 +116,32 @@ In return for your sponsorship LRUG will:
  3. mention the sponsorship in the meeting announcement email on [the mailing list](http://lrug.org/mailing-list)
  4. tweet about the sponsorship from [@lrug](https://twitter.com/lrug) at least once to announce it and once on the day as a reminder
  5. mention you at the start of the meeting, and make sure you have 30seconds or so during our announcements section to talk to the group
+
+## About this document
+
+The first draft of this document was written by
+[Murray Steele](http://h-lame.com/) following private consultation
+with several members of the community and
+[discussions on the LRUG mailing list](http://lists.lrug.org/htdig.cgi/chat-lrug.org/2013-October/009565.html).
+
+While it contains some information that is uncontroversial and
+unlikely to become rapidly outdated, it is intended to be a living
+document. Contributions and discussion about this document are very
+welcome. There are two principle ways of contributing:
+
+ 1. By opening an issue, or suggesting your changes in the form of a
+    pull-request at this document's
+    [Github repository](https://github.com/lrug/lrug.github.io/)
+ 2. By proposing or suggesting your changes on the LRUG
+    [mailing list](http://lrug.org/mailing-list).
+
+All contributions can and will be discussed by any members of the
+community, and can be incorporated into this document when consensus
+has been reached.
+
+If you'd like to volunteer to help, including
+[incident handling](#incident-handling), please contact
+[Murray Steele](http://h-lame.com/)
+([@hlame](http://twitter.com/hlame),
+[murray.steele@lrug.org](mailto:murray.steele@lrug.org)) in the first
+instance.
