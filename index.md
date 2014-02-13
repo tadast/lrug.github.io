@@ -61,8 +61,8 @@ to a member of the [volunteer team](#volunteer-team).
 If you'd like to join the volunteer team please contact
 [Murray Steele](http://h-lame.com/)
 ([@hlame](http://twitter.com/hlame),
-[murray.steele@lrug.org](mailto:murray.steele@lrug.org)) in the first
-instance.
+[murray.steele@lrug.org](mailto:murray.steele@lrug.org)) or one of the
+other [volunteers](#volunteer-team).
 
 ## Meetings
 
