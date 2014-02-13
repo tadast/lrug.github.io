@@ -24,6 +24,7 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
      * [Timing](#timing)
    * [After The Talks](#after-the-talks)
  * [Sponsorship](#sponsorship)
+ * [About This Document](#about-this-document)
 
 ## Code of Conduct
 
@@ -48,11 +49,20 @@ If you’re still in need of clarification, there are [a number](https://us.pyco
 
 All LRUG participants are accountable for their own behaviour. If you’ve behaved badly elsewhere, that may count against you here, because of the effect it has on other attendees.
 
-If you experience or witness any harassing behaviour, please report it to:
+If you experience or witness any harassing behaviour, please report it
+to a member of the [volunteer team](#volunteer-team).
+
+#### Volunteer team
 
  * [Aanand](http://aanandprasad.com/) ([@aanand](http://twitter.com/aanand), [aanand.prasad@gmail.com](mailto:aanand.prasad@gmail.com))
  * [Tom](http://codon.com/) ([@tomstuart](http://twitter.com/tomstuart), [tom@codon.com](mailto:tom@codon.com))
  * [Camille](http://camillebaldock.co.uk/) ([@camille_ldn](http://twitter.com/camille_ldn), [camille@camillebaldock.co.uk](mailto:camille@camillebaldock.co.uk))
+
+If you'd like to join the volunteer team please contact
+[Murray Steele](http://h-lame.com/)
+([@hlame](http://twitter.com/hlame),
+[murray.steele@lrug.org](mailto:murray.steele@lrug.org)) or one of the
+other [volunteers](#volunteer-team).
 
 ## Meetings
 
@@ -115,3 +125,32 @@ In return for your sponsorship LRUG will:
  3. mention the sponsorship in the meeting announcement email on [the mailing list](http://lrug.org/mailing-list)
  4. tweet about the sponsorship from [@lrug](https://twitter.com/lrug) at least once to announce it and once on the day as a reminder
  5. mention you at the start of the meeting, and make sure you have 30seconds or so during our announcements section to talk to the group
+
+## About this document
+
+The first draft of this document was written by
+[Murray Steele](http://h-lame.com/), [Tom Stuart](http://codon.com)
+and [Aanand Prasad](http://aanandprasad.com/), drawing on a number of
+sources and
+[discussions on the LRUG mailing list](http://lists.lrug.org/htdig.cgi/chat-lrug.org/2013-October/009565.html). Github
+provides a
+[full list of contributors](https://github.com/lrug/lrug.github.io/graphs/contributors)
+following the initial draft.
+
+While it contains some information that is uncontroversial and
+unlikely to become rapidly outdated, it is intended to be a living
+document. Contributions and discussion about this document are very
+welcome. There are a number of ways of contributing:
+
+ 1. By opening an issue, or suggesting your changes in the form of a
+    pull-request at this document's
+    [Github repository](https://github.com/lrug/lrug.github.io/)
+ 2. By proposing or suggesting your changes on the LRUG
+    [mailing list](http://lrug.org/mailing-list).
+ 3. By privately contacting
+    [Murray Steele](mailto:murray.steele@lrug.org) or one of the
+    [volunteer team](#volunteer-team).
+
+All contributions can and will be discussed by any members of the
+community, and can be incorporated into this document when consensus
+has been reached.
