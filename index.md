@@ -25,6 +25,7 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
    * [After The Talks](#after-the-talks)
  * [Sponsorship](#sponsorship)
  * [About This Document](#about-this-document)
+   * [License](#license)
 
 ## Code of Conduct
 
@@ -154,3 +155,7 @@ welcome. There are a number of ways of contributing:
 All contributions can and will be discussed by any members of the
 community, and can be incorporated into this document when consensus
 has been reached.
+
+### License
+
+This text is licensed as [CC0](http://creativecommons.org/about/cc0); in summary, it is in the public domain and can be used and modified with or without attribution.
