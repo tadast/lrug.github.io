@@ -140,11 +140,33 @@ Although the venue for this part of the meeting is a pub and therefore feels mor
 
 New members of the mailing list will be on moderation for their first few posts to the list.
 
-Job ads are allowed on the list *(include lrug.org/posting-jobs here)* but the threads will be locked as soon as possible and replies deleted.
+Job ads are allowed on the list (see [below](#job-ads) for the rules), but the threads will be locked as soon as possible and replies deleted.
 
 Messages to the list that cause a complaint may be deleted and the thread they are a part of may be locked.
 
 When participating in the mailing list remember that it’s a text only medium so it is very easy for your humour to be misinterpreted.  You should err on the side of clarity and remember that the LRUG mailing list is not the place to try pushing the boundaries of edgy humour.
+
+### Job Ads
+
+Job ads are allowed on the mailing-list however, there are some rules and tips you should bear in mind when posting.  Following these will hopefully maximise your chance of getting useful replies, and minimise the chance of affecting the signal-to-noise ratio of the list as a whole.
+
+#### Put ``[JOBS]`` in the subject
+
+There are some people who are definitely not interested in any opportunities.  You can help them by adding ``[JOBS]`` to the start of your subject line, which they can then use to filter your email appropriate.  
+
+If you are a new list member on moderation your job ad won't be allowed onto the list without this tag, and if you are not on moderation any job ad without this tag will be deleted by the moderators. 
+
+#### Be as specific as possible
+
+Using vague phrases like "I have an opportunity at a high-profile Ruby company paying market rates" is likely to trigger a negative reaction in our members.  You'll get much more respect if you provide as much detail as possible, including specifics about the company, what they do, and why they are hiring.
+
+#### Tone
+
+Make your email as friendly and informal as possible and explain why people would want to come and work for you.  What's different about the project, what's exciting about it, etc….  The LRUG list gets a lot of job offer emails, so you want yours to stand out.  For example, don't post your job ad; let people know you are hiring and why it would be interesting to work there and people can get in touch for more details.
+
+#### Come to LRUG
+
+You might also consider coming along to a one or more of our [meetings](#meetings) and standing up at the start during the "anyone got anything to say" part to make your pitch.  You'll be able to give much more context, and actually start speaking to potential candidates directly.
 
 ## Sponsorship
 
