@@ -26,6 +26,8 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
      * [Timing](#timing)
    * [After The Talks](#after-the-talks)
  * [Mailing List](#mailing-list)
+   * [Rules of the List](#rules-of-the-list)
+   * [Job Ads](#job-ads)
  * [Sponsorship](#sponsorship)
  * [About This Document](#about-this-document)
    * [License](#license)
@@ -136,7 +138,13 @@ Although the venue for this part of the meeting is a pub and therefore feels mor
 
 ## Mailing list
 
-*Something about signing up and where the archives are and all that stuff.*
+The mailing-list can be found at [lrug.org/mailing-list](http://lrug.org/mailing-list).  From here you will be able to sign up, manage your account, and view the archives.  The traffic is quite variable; on some days there'll be no messages, other days there'll be several independent threads with many active participants.
+
+All messages to the list will be delivered to your inbox with ``[LRUG]`` in the subject line.  We suggest you set up mail rules or filters to keep them out of your inbox.
+
+The list exists to let the community stay in touch outside of the monthly meetings, but is open to all whether they have attended one of our meetings or not.  An average LRUG meeting attracts 100 or so people, but the list has over 1,000 members.  Be mindful of that fact when you send your messages: you're not just sending an email to a handful of friends.  To help everyone be courteous there are a handful of rules for the list:
+
+### Rules of the List
 
 New members of the mailing list will be on moderation for their first few posts to the list.
 
@@ -145,6 +153,10 @@ Job ads are allowed on the list (see [below](#job-ads) for the rules), but the t
 Messages to the list that cause a complaint may be deleted and the thread they are a part of may be locked.
 
 When participating in the mailing list remember that it’s a text only medium so it is very easy for your humour to be misinterpreted.  You should err on the side of clarity and remember that the LRUG mailing list is not the place to try pushing the boundaries of edgy humour.
+
+Archives of the list are public; if you post something that you wish you hadn't let us know at [complaints@lrug.org](mailto:complaints@lrug.org) and we'll have it removed from the archives.
+
+Consider using tags in the subject line to let people know what your message is about.  For example consider using: ``[ANN]`` to announce something, ``[JOBS]`` for a job ad, ``[COURSES]`` for a training course, ``[OT]`` for something that's not specifically about Ruby.  This (other than [``[JOBS]``](#job-ads)) isn't a strict rule, but it can be helpful to flag your message for the type of content.
 
 ### Job Ads
 
