@@ -17,6 +17,8 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
 
  * [Code of Conduct](#code-of-conduct)
    * [Incident Handling](#incident-handling)
+     * [Volunteer Team](#volunteer-team)
+     * [Incident Handling Procedure](#incident-handling-procedure)
  * [Meetings](#meetings)
    * [Talks](#talks)
      * [Scheduling](#scheduling)
@@ -35,10 +37,12 @@ It’s of primary importance that everyone who wants to participate feels safe a
  * be considerate of people’s time and attention
  * contribute positively and constructively to discussions (online or in-person)
 
-On the mailing list, we want to maintain a high signal-to-noise ratio and while the organisers will step in as soon as they see poor behaviour, we encourage you to say something if you see it first.  So please:
+On the mailing list, we want to maintain a high signal-to-noise ratio, so please:
 
- * lead by example — if a discussion is devolving into snark and name-calling, either let it die or raise the tone
- * keep standards high — if someone acts disrespectfully, make that crystal clear to them
+ * lead by example — keep your emails on topic, we’re all here to talk about ruby specifically and development in general
+ * keep standards high — email is a text-only medium and jokes can be easily misinterpreted; remember that you’re talking to several hundred strangers, not 10 close friends
+
+If you see someone actings disrespectfully, either online or at an event, please make it known to one of the organisers or volunteers in person or by emailing [complaints@lrug.org](mailto:complaints@lrug.org).
 
 ### Incident Handling
 
@@ -53,7 +57,7 @@ All LRUG participants are accountable for their own behaviour. If you’ve behav
 If you experience or witness any harassing behaviour, please report it
 to a member of the [volunteer team](#volunteer-team).
 
-#### Volunteer team
+#### Volunteer Team
 
  * [Aanand](http://aanandprasad.com/) ([@aanand](http://twitter.com/aanand), [aanand.prasad@gmail.com](mailto:aanand.prasad@gmail.com))
  * [Tom](http://codon.com/) ([@tomstuart](http://twitter.com/tomstuart), [tom@codon.com](mailto:tom@codon.com))
@@ -64,6 +68,22 @@ If you'd like to join the volunteer team please contact
 ([@hlame](http://twitter.com/hlame),
 [murray.steele@lrug.org](mailto:murray.steele@lrug.org)) or one of the
 other [volunteers](#volunteer-team).
+
+#### Incident Handling Procedure
+
+When we receive a report to [complaints@lrug.org](mailto:complaints@lrug.org) we will treat the issue depending on the severity.  The severity of the incident will be guided by reviewing the incident itself and the complaint.  There are three levels of severity:
+
+* Minor — accidental or unwitting violations of the code of conduct
+* Major — clear violation of the code of conduct
+* Massive — violations that make anyone feel unsafe
+
+This is not a 3-strikes system; if a first offense is deemed “Massive” the response will be in line with that.  However, if someone exhibits a pattern of “Minor” offenses we will proceed to “Major”, and ultimately “Massive”, responses.  Our responses to these severity levels will be:
+
+* Minor — we will privately let the culprit know they are in violation and remind them to re-read the code of conduct
+* Major — as above, plus we will place the culprit on moderation and publicly announce this
+* Massive — we will let the culprit know and announce publicly that we are banning them from participating in LRUG
+
+Banning and moderation will be across all online and offline spaces that LRUG has the ability to control.  Online this most obviously means the mailing list, but we will also try to apply this Twitter, Github, IRC and other places that LRUG members communicate.  Offline this means we will request our venue hosts to disallow those people access to our events where possible.
 
 ## Meetings
 
