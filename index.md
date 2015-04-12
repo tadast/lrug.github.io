@@ -25,6 +25,7 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
      * [Subject Matter](#subject-matter)
      * [Timing](#timing)
    * [After The Talks](#after-the-talks)
+ * [Mailing List](#mailing-list)
  * [Sponsorship](#sponsorship)
  * [About This Document](#about-this-document)
    * [License](#license)
@@ -94,7 +95,7 @@ To stay informed about our upcoming meetings you can:
  * subscribe to [our calendar](http://lrug.org/meeting-calendar)
  * follow the [LRUG series on lanyrd](http://lanyrd.com/series/lrug/)
  * follow [@lrug](http://twitter.com/lrug)
- * subscribe to [the mailing list](http://lrug.org/mailing-list)
+ * subscribe to [the mailing list](#mailing-list)
  * subscribe to [the lrug.org meetings RSS](http://lrug.org/rss/meetings)
 
 ### Talks
@@ -132,6 +133,18 @@ When the talks are finished, usually around 8pm, most of the group head over to 
 Just because we're in a pub doesn't mean you have to drink alcohol.  If you do choose to drink alcohol we encourage you to explore the food menu and drink responsibly.
 
 Although the venue for this part of the meeting is a pub and therefore feels more informal, be aware that the code of conduct still applies.
+
+## Mailing list
+
+*Something about signing up and where the archives are and all that stuff.*
+
+New members of the mailing list will be on moderation for their first few posts to the list.
+
+Job ads are allowed on the list *(include lrug.org/posting-jobs here)* but the threads will be locked as soon as possible and replies deleted.
+
+Messages to the list that cause a complaint may be deleted and the thread they are a part of may be locked.
+
+When participating in the mailing list remember that it’s a text only medium so it is very easy for your humour to be misinterpreted.  You should err on the side of clarity and remember that the LRUG mailing list is not the place to try pushing the boundaries of edgy humour.
 
 ## Sponsorship
 
