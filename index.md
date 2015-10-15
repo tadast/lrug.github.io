@@ -107,7 +107,7 @@ For a 40-minute slot, we recommend a 30-minute talk. This leaves plenty of time 
 
 ### After The Talks
 
-When the talks are finished, usually around 8pm, most of the group head over to [The Slaughtered Lamb](http://www.theslaughteredlambpub.com/). This part of the meeting is your opportunity to socialise with other LRUG members and speak with the presenters about their talks.
+When the talks are finished, usually around 8pm, most of the group head over to [Singer Tavern](http://singertavern.com/). This part of the meeting is your opportunity to socialise with other LRUG members and speak with the presenters about their talks.
 
 Just because we're in a pub doesn't mean you have to drink alcohol.  If you do choose to drink alcohol we encourage you to explore the food menu and drink responsibly.
 
