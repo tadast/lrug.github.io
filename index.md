@@ -101,11 +101,19 @@ If you are using the projector you should favour large fonts and a high contrast
 
 #### Timing
 
-Our normal pattern for a meeting is two speakers with 40 minute time slots, although one-off meetings might be different. For example, our February meetings are for lightning talks of no more than 10 minutes in length.
+Our meetings are 1 hour 30 minutes long, with about 5-10 minutes reserved at the start for admin and announcements from the group. To make it simpler to organise filling the remining 80 minutes we offer three standard slot sizes for talks:
 
-A slot isn’t how long your talk should be, but how much time you will get in front of the group. You can fill that time slot as you see fit (talk + questions, talk only, &c).
+* 40 minutes
+* 25 minutes
+* 10 minutes
 
-For a 40-minute slot, we recommend a 30-minute talk. This leaves plenty of time for you to over-run, answer questions, and faff about with a laptop at the start.
+We combine these different slots to fill the meeting; for example two 40s, three 25s, or one of each. On rare occasions we use a single 80 minute slot for a panel discussion or practical event. Our February "lightning talk" meetings are always made up of eight 10 minute slots.
+
+When proposing a talk think about the slot that it might best fit into. A slot isn’t how long your talk should be, but how much time you will get in front of the group. You can fill that time slot as you see fit (talk + questions, talk only, &c).
+
+You shouldn't feel like you have to fill the slot you pick. If you think your talk naturally lasts 15 minutes don’t feel like you should add another 10 minutes just to "fill" a 25 minute slot, nor should you attempt to compress it down to fit in a 10 minute slot.
+
+To leave plenty of time for you to over-run, answer questions, and faff about with a laptop at the start we recommend a 30-35 mintue talk in a 40 minute slot, a 20 minute talk in a 25-minute slot, and a 5-8 minute talk in a 10 minute slot.
 
 ### After The Talks
 
