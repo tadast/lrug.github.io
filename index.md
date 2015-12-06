@@ -99,7 +99,7 @@ If you are using the projector you should favour large fonts and a high contrast
 
 #### Timing
 
-Our normal pattern for a meeting is two speakers with 40 minute time slots, although one-off meetings might be different. For example, our February meetings are for lightning talks, run using the "20 slides, 20 seconds each" format.
+Our normal pattern for a meeting is two speakers with 40 minute time slots, although one-off meetings might be different. For example, our February meetings are for lightning talks of no more than 10 minutes in length.
 
 A slot isn’t how long your talk should be, but how much time you will get in front of the group. You can fill that time slot as you see fit (talk + questions, talk only, &c).
 
