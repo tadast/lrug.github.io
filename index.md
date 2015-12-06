@@ -85,7 +85,9 @@ Our goal is to accept any offered talk. If your talk is obviously about Ruby the
 
 #### Scheduling
 
-Slots for talks are first-come, first-served. Once you've decided to give your talk we'll let you know when a free slot will be available at a meeting. We usually have two talks per meeting, so if there are 4 people on our list of volunteers when you offer your talk it's most likely that the third meeting is the one we'd schedule you for. Of course, people drop out or aren't available for a specific meeting so you might get a slot sooner.
+Slots for talks are first-come, first-served. Once you've decided to give your talk we'll let you know when a free slot will be available at a meeting. We usually have two or three talks per meeting, so if there are four people on our list of volunteers when you offer your talk it's most likely that the third meeting is the one we'd schedule you for. Of course, people drop out or aren't available for a specific meeting so you might get a slot sooner.
+
+Our hosts, Skills Matter, request a four-week lead time for events. This means we try to arrange meetings about five or six weeks in advance. Combined with the depth of the volunteer stack, this can mean a three to four month gap between you proposing a talk and getting to give it to the group.
 
 If there is a specific future meeting that would be most convenient for you, let us know and we'll do our best to accommodate that.
 
