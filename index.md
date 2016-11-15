@@ -57,7 +57,6 @@ to a member of the [volunteer team](#volunteer-team).
 
  * [Aanand](http://aanandprasad.com/) ([@aanand](http://twitter.com/aanand), [aanand.prasad@gmail.com](mailto:aanand.prasad@gmail.com))
  * [Tom](http://codon.com/) ([@tomstuart](http://twitter.com/tomstuart), [tom@codon.com](mailto:tom@codon.com))
- * [Camille](http://camillebaldock.co.uk/) ([@camille_ldn](http://twitter.com/camille_ldn), [camille@camillebaldock.co.uk](mailto:camille@camillebaldock.co.uk))
 
 If you'd like to join the volunteer team please contact
 [Murray Steele](http://h-lame.com/)
