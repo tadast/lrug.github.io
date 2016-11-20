@@ -21,6 +21,7 @@ We want LRUG to be a diverse and inclusive community, united by an interest in R
    * [Talks](#talks)
      * [Scheduling](#scheduling)
      * [Subject Matter](#subject-matter)
+     * [Resources for Speakers](#resources-for-speakers)
      * [Timing](#timing)
    * [After The Talks](#after-the-talks)
  * [Sponsorship](#sponsorship)
@@ -97,6 +98,14 @@ LRUG is a mixed-ability crowd; we have talks from first-timers just learning Rub
 Your talk should observe the code of conduct. Any talks that don't will be stopped and the speaker asked to leave.
 
 If you are using the projector you should favour large fonts and a high contrast colour scheme with dark text on a light background in anything you show. The default settings for most presentation applications are a safe bet, but you might have to re-configure your terminal or editor if you are using those for anything. Also note that while the projector will cope with most screen resolutions, it works best at 1024x768. Most presentation applications will automatically resize, but you might want to check your slides at that resolution.
+
+#### Resources for Speakers
+
+Whether you're a first time speaker or a conference veteran, giving a talk can be a daunting experience. Luckily there are plenty of resources out there to help make your talk great! Searching google for [advice for new speakers](https://www.google.co.uk/search?q=advice+for+new+speakers) yields plenty of results, but here are a select few to get you started:
+
+* Matt Abrahams from Stanford Business wrote a comprehensive set of [Tips and Techniques for More Confident and Compelling Presentations](http://www.gsb.stanford.edu/insights/matt-abrahams-tips-techniques-more-confident-compelling-presentations)
+* Jessica Stillman has written a neat summary of [5 Secrets of Public Speaking From the Best TED Presenters](http://www.inc.com/jessica-stillman/ted-speakers-on-presenting-public-speaking.html)
+* Rethink Testing have a three part [guide for new speakers](http://rethink-testing.co.uk/?p=158), covering important topics such as picking a topic to talk about, and dealing with the inevitable nerves.
 
 #### Timing
 
